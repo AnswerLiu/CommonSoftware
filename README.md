@@ -4,6 +4,10 @@
 
 [vscode](https://code.visualstudio.com/)
 
+## 开发
+
+[百度云加速](https://su.baidu.com/)
+
 ## API
 
 [极速数据](https://www.jisuapi.com/)
